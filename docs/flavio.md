@@ -1,7 +1,5 @@
 # Flávio Fernandes
 
-# Flávio Fernandes
-
  - Informar o diretório atual: `pwd`
  - Criar um diretório: `mkdir DIRETORIO`
  - Criar diretorio e subdiretorios: `mkkdir -p caminho/para/subdiretorios`
