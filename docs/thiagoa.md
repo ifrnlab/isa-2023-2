@@ -1,2 +1,2 @@
-. Thiago Araújo
+# Thiago Araújo
 
