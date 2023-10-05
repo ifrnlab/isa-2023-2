@@ -5,4 +5,4 @@
  - Criar diretorio e subdiretorios: `mkkdir -p caminho/para/subdiretorios`
  - Atualizar catalogo do apt: ´sudo apt update´
  - Instalar pacotes: `sudo apt install -y PACOTE`
- - Exibi informações sobre o pacote: `apt show PACOTE`
+ - Exibir informações sobre o pacote: `apt show PACOTE`
